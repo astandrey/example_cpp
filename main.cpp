@@ -12,6 +12,7 @@ public:
 int main(int argc, char *argv[])
 {
     cout << "* Create Object base" << endl;
+    cout<<13+15;
     Base base;
 
     return 0;
