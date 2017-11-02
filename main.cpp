@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
 
     cout << "* Call method func() for object base" << endl;
     base.func();
-
+    cout<<100*25;
     cout << "* Call method func() for object child" << endl;
     child.func();
 
