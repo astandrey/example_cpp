@@ -25,6 +25,7 @@ int main(int argc, char *argv[])
 
     cout << "* Create Object child" << endl;
     Child child;
+    cout <<100+5;
 
     cout << "* Call method func() for object base" << endl;
     base.func();
